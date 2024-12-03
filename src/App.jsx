@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Checked from '../src/assets/Checked.svg'
+import Checked from '../src/assets/checked.svg'
 import Checking from '../src/assets/Checking.svg'
 import Down_Arrow from '../src/assets/Down_Arrow.svg'
 import edit from '../src/assets/edit.svg'
